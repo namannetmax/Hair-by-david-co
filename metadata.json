@@ -1,0 +1,7 @@
+{
+  "name": "Hair by david & co",
+  "description": "A premium, editorial-style boutique hair salon website showcasing expert styling, transformations, and professional stylists in Downtown Toronto.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
